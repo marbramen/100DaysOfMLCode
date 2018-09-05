@@ -1,0 +1,59 @@
+References: https://bl.ocks.org/mbostock/3885304
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<style>
+		.axis--x path {
+		  display: none;
+		}
+	</style>
+</head>
+<body>
+	<svg width="960" height="500"></svg>
+</body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var data = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89];
+
+var svg = d3.select("body").select("svg"),
+    margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = +svg.attr("width") - margin.left - margin.right,
+    height = +svg.attr("height") - margin.top - margin.bottom;
+
+var g = svg.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var x = d3.scaleBand().domain(data.map(function(d,i) { return i})).rangeRound([0, width]).padding(0.1),
+    y = d3.scaleLinear().domain([0, d3.max(data)]).rangeRound([height,0]);    
+
+var color =  d3.scaleOrdinal().domain(data.map(function(d,i) { return i})).range(["red","blue", "yellow", "green"]);   
+
+g.append("g")
+      .attr("class", "axis axis--x")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
+
+g.append("g")
+      .attr("class", "axis axis--y")
+      .call(d3.axisLeft(y).ticks(10))
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", "0.71em")
+      .attr("text-anchor", "end")
+      .text("Frequency");
+
+g.selectAll(".bar")
+    .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d,i) { return x(i); })
+      .attr("y", function(d,i) { return y(d); })
+      .attr("width", x.bandwidth())
+      .attr("height", function(d,i) { return height - y(d); })
+      .style("fill",function(d,i) { return color(i); });
+      
+</script>
+
