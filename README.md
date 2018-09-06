@@ -229,7 +229,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Today's Progress** : Tweet tokenizer and word2vec model.
 
 **Link of Work:** [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2033%20-%20Sentiment%20Analysis%20-%20Part%201.ipynb)
-
+	
 ## Day 35,36: Sep 04, Sep 05 , 2018
 
 **Today's Progress** : IMDB model with/without pretrained word embeddings. It implemented in Keras.
@@ -239,3 +239,17 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:** 
 - [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2035%2C36%20-Deep%20Learning%20for%20text%20and%20sequences%20-%20Deep%20Learning%20with%20python-Copy1.ipynb)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+
+## Day 37: September 06, 2018
+
+**Today's Progress**: Implementation of a simple recurrent neural network in Keras. Coding a linear regression in numpy. Solving quiz 1 of How to Win a Data Science Competition course. 
+
+**Thoughts**: Keras is a easy-to-use library for developing a neuronal model.
+
+**Link of Work:**
+- [Commit - Simple Recurrent Neural Network](http://localhost:8888/notebooks/Day%2037%20-%20Simple%20recurrent%20neural%20networks.ipynb)
+- [Commit - Linear Regression & PCA](http://localhost:8888/notebooks/Day%2037%20-%20Linear%20Regression%20%26%20PCA.ipynb)
+- [How to Win a Data Science Competition](https://www.coursera.org/learn/competitive-data-science/home/welcome)	
+
+
