@@ -229,3 +229,13 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Today's Progress** : Tweet tokenizer and word2vec model.
 
 **Link of Work:** [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2033%20-%20Sentiment%20Analysis%20-%20Part%201.ipynb)
+
+## Day 35,36: Sep 04, Sep 05 , 2018
+
+**Today's Progress** : IMDB model with/without pretrained word embeddings. It implemented in Keras.
+
+**Thoughts**: Keras is very easy to build neuronal models.
+
+**Link of Work:** 
+- [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2035%2C36%20-Deep%20Learning%20for%20text%20and%20sequences%20-%20Deep%20Learning%20with%20python-Copy1.ipynb)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
