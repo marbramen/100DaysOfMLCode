@@ -255,7 +255,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 ## Day 38,39: Sep 07, Sep 08, 2018
 
-**Today's Progress**: Attented meetup Deep Learning Book Chapter 5 Part I. Solving integral math exercises. Coding a GRU, LSTM, BiLSTM, BiGRU for IMDB. 
+**Today's Progress**: Attended meetup Deep Learning Book Chapter 5 Part I. Solving integral math exercises. Coding a GRU, LSTM, BiLSTM, BiGRU for IMDB. 
 
 **Link of Work:**
 - [Meetup: Deep Learning Book Chapter 5 Part I](https://www.youtube.com/watch?v=PZUnobWpK8M)
