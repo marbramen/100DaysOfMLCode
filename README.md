@@ -248,8 +248,16 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Thoughts**: Keras is a easy-to-use library for developing a neuronal model.
 
 **Link of Work:**
-- [Commit - Simple Recurrent Neural Network](http://localhost:8888/notebooks/Day%2037%20-%20Simple%20recurrent%20neural%20networks.ipynb)
-- [Commit - Linear Regression & PCA](http://localhost:8888/notebooks/Day%2037%20-%20Linear%20Regression%20%26%20PCA.ipynb)
+- [Commit - Simple Recurrent Neural Network](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2037%20-%20Simple%20recurrent%20neural%20networks.ipynb)
+- [Commit - Linear Regression & PCA](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2037%20-%20Linear%20Regression%20%26%20PCA.ipynb)
 - [How to Win a Data Science Competition](https://www.coursera.org/learn/competitive-data-science/home/welcome)	
 
 
+## Day 38,39: Sep 07, Sep 08, 2018
+
+**Today's Progress**: Attented meetup Deep Learning Book Chapter 5 Part I. Solving integral math exercises. Coding a GRU, LSTM, BiLSTM, BiGRU for IMDB. 
+
+**Link of Work:**
+- [Meetup: Deep Learning Book Chapter 5 Part I](https://www.youtube.com/watch?v=PZUnobWpK8M)
+- [Calculus Made Easy by Silvanus P. Thompson](https://archive.org/details/ost-math-33283-pdf)
+- [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2038%20-%20Comparasion%20between%20LSTM%2C%20GRU%2C%20BiLSTM%20in%20Keras.ipynb)
