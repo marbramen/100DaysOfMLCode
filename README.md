@@ -261,3 +261,10 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Meetup: Deep Learning Book Chapter 5 Part I](https://www.youtube.com/watch?v=PZUnobWpK8M)
 - [Calculus Made Easy by Silvanus P. Thompson](https://archive.org/details/ost-math-33283-pdf)
 - [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2038%20-%20Comparasion%20between%20LSTM%2C%20GRU%2C%20BiLSTM%20in%20Keras.ipynb)
+
+
+## Day 40: Sep 10, 2018
+
+**Today's Progres**: Reading about differential equations and infinity series.
+
+**Link of Work:** - [Calculus Made Easy by Silvanus P. Thompson](https://archive.org/details/ost-math-33283-pdf)
