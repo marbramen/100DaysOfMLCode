@@ -263,8 +263,15 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2038%20-%20Comparasion%20between%20LSTM%2C%20GRU%2C%20BiLSTM%20in%20Keras.ipynb)
 
 
-## Day 40: Sep 10, 2018
+## Day 40: September 09, 2018
 
 **Today's Progres**: Reading about differential equations and infinity series.
 
 **Link of Work:** - [Calculus Made Easy by Silvanus P. Thompson](https://archive.org/details/ost-math-33283-pdf)
+
+
+## Day 41,42: Sep 10, Sep 11, 2018
+
+**Today's Progress**: Text classification with CNN + GRU + pre-trained GloVe embeddings models. And visualizations of word embeddings. With a small math integrals reading.
+
+**Link of Work:** [Commit - Data Processing, CNN+BiGRU+word embeddiins pretrained. for text classification](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2041%2C42%20-%20Data%20Processing%2C%20CNN%2BBiGRU%2Bword%20embeddiins%20pretrained.%20for%20text%20classification.ipynb)
