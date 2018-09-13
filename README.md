@@ -277,7 +277,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:** [Commit - Data Processing, CNN+BiGRU+word embeddiins pretrained. for text classification](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2041%2C42%20-%20Data%20Processing%2C%20CNN%2BBiGRU%2Bword%20embeddiins%20pretrained.%20for%20text%20classification.ipynb)
 
 
-# Day 42: September 12, 2018
+# Day 43: September 12, 2018
 
 **Today's Progress**: Solving covariance and correlation math exercises. Coding a correlation program. Understanding Neural Machine Translation toolkit.
 
