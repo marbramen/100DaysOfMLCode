@@ -286,3 +286,11 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)
 
 
+# Day 44: September 13, 2018
+
+**Today's Progress**: Reading about Kaggle's data science competitions.
+
+**Link of Work:** [Kaggle](https://www.kaggle.com/)
+
+
+
