@@ -293,4 +293,14 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:** [Kaggle](https://www.kaggle.com/)
 
 
+# Day 45,46: Sep 14, Sep 15, 2018
+
+**Today's Progress**: Chapter 5 - Machine Learning Basics - Deep Learning Book
+
+**Link of Work:** [Chapter 5 DLB](https://www.deeplearningbook.org/contents/ml.html)
+
+
+# Day 46,47: Sep 16, Sep 17, 2018
+
+**Today's Progress**: Reading about index of machine learning, artificial intelligence, data science books, and reading the syllabus of MOOCS about machine learning or deep learning. For making my own ML syllabus
 
