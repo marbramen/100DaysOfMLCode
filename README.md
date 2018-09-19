@@ -311,8 +311,8 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Link of WorK:**
 - [Mike Bostock- Visualizations](https://bost.ocks.org/mike/)
-- [Commit - D3 - specific zoom and drag]()
-- [Commit - D3 - general zoom]()
-- [Commit - D3 - drag]()
-- [Commit - D3 - drag and general zoom]()
+- [Commit - D3 - specific zoom and drag](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20D3%20Code01%20-%20specificZoom_drag.html)
+- [Commit - D3 - general zoom](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20D3%20Code02%20-%20general%20zoom.html)
+- [Commit - D3 - drag](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20D3%20Code03%20-%20drag.html)
+- [Commit - D3 - drag and general zoom](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20D3%20Code04%20-%20drag%20and%20general%20zoom.html)
 
