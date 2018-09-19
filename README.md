@@ -300,7 +300,19 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:** [Chapter 5 DLB](https://www.deeplearningbook.org/contents/ml.html)
 
 
-# Day 46,47: Sep 16, Sep 17, 2018
+# Day 47,48: Sep 16, Sep 17, 2018
 
 **Today's Progress**: Reading about index of machine learning, artificial intelligence, data science books, and reading the syllabus of MOOCS about machine learning or deep learning. For making my own ML syllabus
+
+
+# Day 49: September 18, 2018
+
+**Today's Progress**: Coding visualizations with D3. 
+
+**Link of WorK:**
+- [Mike Bostock- Visualizations](https://bost.ocks.org/mike/)
+- [Commit - D3 - specific zoom and drag]()
+- [Commit - D3 - general zoom]()
+- [Commit - D3 - drag]()
+- [Commit - D3 - drag and general zoom]()
 
