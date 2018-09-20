@@ -310,9 +310,16 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Today's Progress**: Coding visualizations with D3. 
 
 **Link of WorK:**
-- [Mike Bostock- Visualizations](https://bost.ocks.org/mike/)
+- [Commit - D3 - general zoom](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2049%20-%20D3%20Code02%20-%20general%20zoom.html)
 - [Commit - D3 - specific zoom and drag](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20D3%20Code01%20-%20specificZoom_drag.html)
-- [Commit - D3 - general zoom](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20D3%20Code02%20-%20general%20zoom.html)
-- [Commit - D3 - drag](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20D3%20Code03%20-%20drag.html)
-- [Commit - D3 - drag and general zoom](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20D3%20Code04%20-%20drag%20and%20general%20zoom.html)
+- [Mike Bostock- Visualizations](https://bost.ocks.org/mike/)
+- [Commit - D3 - drag](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2049%20-%20D3%20Code03%20-%20drag.html)
+- [Commit - D3 - drag and general zoom](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2049%20-%20D3%20Code04%20-%20drag%20and%20general%20zoom.html)
+
+# Day 50: September 19, 2018
+
+**Today's Progress**: Reading and coding about Naive Bayes, part I.
+
+**Link of Work:**
+[Commit Naive Baye](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20Naive%20Bayes.ipynb)
 
