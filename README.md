@@ -323,3 +323,10 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:**
 [Commit Naive Baye](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20Naive%20Bayes.ipynb)
 
+
+# Day 51: September 20, 2018
+
+**Today's Progress**: Reading and coding about Naive Bayes with Gaussian Densidity Function.
+
+**Link of Work:**
+[Commit Naive Baye with Gaussian Probability](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
