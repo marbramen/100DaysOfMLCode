@@ -330,3 +330,15 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Link of Work:**
 [Commit Naive Baye with Gaussian Probability](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
+
+
+# Day 52: September 21, 2018
+
+**Today's Progress**: Reading about CS229 Lectures Notes - Generative Learning Algorithms. Watch Naive Bayes' video lectures by Andrew Ng.
+
+**Link of Work:**
+- [Part IV Generative Learning algorithms-Andrew Ng](http://cs229.stanford.edu/notes/cs229-notes2.pdf)
+- [Video lecture - Andrew Ng Naive Bayes Generative Learning Algorithms](https://www.youtube.com/watch?v=z5UQyCESW64)
+- [Andrew Ng Naive Bayes Text Clasification](https://www.youtube.com/watch?v=NFd0ZQk5bR4)
+
+
