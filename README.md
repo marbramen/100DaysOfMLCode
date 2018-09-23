@@ -342,3 +342,10 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Andrew Ng Naive Bayes Text Clasification](https://www.youtube.com/watch?v=NFd0ZQk5bR4)
 
 
+# Day 53: September 22, 2018
+
+**Today's Progress**: Chapter 6 - Deep Feedforward Networks - Deep Learning Book.
+
+**Link of Work:** [Chapter 6 Deep Feedforward Networks](https://www.deeplearningbook.org/contents/mlp.html)
+
+
