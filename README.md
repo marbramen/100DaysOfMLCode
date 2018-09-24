@@ -349,3 +349,25 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:** [Chapter 6 Deep Feedforward Networks](https://www.deeplearningbook.org/contents/mlp.html)
 
 
+# Day 54: September 23, 2018
+
+**Today's Progress**: Streaming tutorial of temporal series. Learning about lag function, Simple Moving Average(SMA), Weighted Moving Average (WMA), White Noise, transformations of temporal series.
+
+**Thoughts**:  Understanding the time's influence is awesome.
+
+**Link of Work:** [Tutorial: Time Series Analysis](https://www.youtube.com/watch?v=DbW3VvCtOhY)
+
+
+# Day 55: September 24, 2018
+
+**Today's Progress**: Making a presentation about Naive Bayes & Bayes Classifier
+
+**Thoughts**:  The best learning is teaching.
+
+**Link of Work:** [Commit Naive Bayes& Bayes Classifier Presentation](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2055%20Lesson%2002%20-%20Bayes%20%26%20Naive%20Bayes.pdf)
+
+
+
+
+
+
