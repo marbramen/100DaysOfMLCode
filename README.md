@@ -362,10 +362,21 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Today's Progress**: Making a presentation about Naive Bayes & Bayes Classifier
 
-**Thoughts**:  The best learning is teaching.
+**Thoughts**:  The best learning is to teach..
 
 **Link of Work:** [Commit Naive Bayes& Bayes Classifier Presentation](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2055%20Lesson%2002%20-%20Bayes%20%26%20Naive%20Bayes.pdf)
 
+
+# Day 56: September 25, 2018
+
+**Today's Progress**: Improvements to my presentation about Naive Bayes & Bayes Classifier. Coding Naive Bayes with Scikit Learn. Refactor my scratch Gaussian Naive Bayes.
+
+**Thoughts**:  The best learning is to teach.
+
+**Link of Work:** 
+- [Commit Naive Bayes& Bayes Classifier Presentation](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2055%20Lesson%2002%20-%20Bayes%20%26%20Naive%20Bayes.pdf)
+- [Naive Bayes witk Scikit Learn](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2056%20-%20Naive%20Bayes%20with%20Scikit%20Learn.ipynb)
+- [Commit Gaussian Naive Baye ](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
 
 
 
