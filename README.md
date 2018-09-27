@@ -379,6 +379,16 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit Gaussian Naive Baye ](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
 
 
+# Day 57: September 26, 2018
+
+**Today's Progress**: Assignment 01 - Part I of course cs224-NLP with Deep Learning.
+
+**Thoughts**:  The course is great.
+
+**Link of Work:** 
+- [Assignment 01](http://web.stanford.edu/class/cs224n/assignment1/index.html)
+- [Naive Bayes witk Scikit Learn](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2056%20-%20Naive%20Bayes%20with%20Scikit%20Learn.ipynb)
+- [Commit Gaussian Naive Baye ](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
 
 
 
