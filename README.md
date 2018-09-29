@@ -391,4 +391,12 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit Gaussian Naive Baye ](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
 
 
+# Day 58,59: Sep 27,28, 2018 
 
+**Today's Progress**: Reading paper "Online and Linear-Time Attention by Enforcing Monotonic Alignments" by Colin Raffel. Reading about Bayes Network, I played with WEKA. 
+
+** Thoughts**: Playing with machine learning in WEKA was funny.
+
+**Link of Work:**
+- [Online and Linear-Time Attention by Enforcing Monotonic Alignments by Raftel](https://arxiv.org/abs/1704.00784)
+- [A Tutorial on Bayesian classifier A Tutorial on Bayesian classifier with WEKA](http://web.ydu.edu.tw/~alan9956/docu/refer/BayesWEKA.pdf)
