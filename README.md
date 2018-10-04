@@ -399,4 +399,25 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Link of Work:**
 - [Online and Linear-Time Attention by Enforcing Monotonic Alignments by Raftel](https://arxiv.org/abs/1704.00784)
-- [A Tutorial on Bayesian classifier A Tutorial on Bayesian classifier with WEKA](http://web.ydu.edu.tw/~alan9956/docu/refer/BayesWEKA.pdf)
+- [A Tutorial on Bayesian cla/ssifier A Tutorial on Bayesian classifier with WEKA](http://web.ydu.edu.tw/~alan9956/docu/refer/BayesWEKA.pdf)
+
+
+# Day 60: September 29, 2018
+
+**Today's Progress**: Meetup Chapter 7 Deep Learning Book. 
+
+**Link of Work:**
+- [Chapter 7 Deep Learning Book](https://www.deeplearningbook.org/contents/regularization.html)
+- [Meetp up - Chapter 7 Deep Learning Book - Part I](https://www.youtube.com/watch?v=NzkuFAzFjGM)
+- [Meetp up - Chapter 7 Deep Learning Book - Part II](https://www.youtube.com/watch?v=YzDBpYUL-uQ)
+
+
+# Day 61,62: Sep 30, Oct 01, 2018
+
+**Today's Progress**: Reading kernel notebook of data competition in Kaggle. Solving the first assignment of mlcourse.ai. 
+
+**Thoughts**: Better late than never. I will commit the first assignment after of October 14.
+
+**Link of Work:**
+- [Data Science Competition](https://www.kaggle.com/c/bbvadatachallenge-recomendador)
+- [First Assignment mlcourse.ai](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb)
