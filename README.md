@@ -387,8 +387,6 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Link of Work:** 
 - [Assignment 01](http://web.stanford.edu/class/cs224n/assignment1/index.html)
-- [Naive Bayes witk Scikit Learn](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2056%20-%20Naive%20Bayes%20with%20Scikit%20Learn.ipynb)
-- [Commit Gaussian Naive Baye ](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
 
 
 # Day 58,59: Sep 27,28, 2018 
@@ -421,3 +419,16 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:**
 - [Data Science Competition](https://www.kaggle.com/c/bbvadatachallenge-recomendador)
 - [First Assignment mlcourse.ai](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb)
+
+
+# Day 63, October 02, 2018
+
+**Today's Progress**: Assignment 01 - Part II of course cs224-NLP with Deep Learning. Implementing a Multi Layer Perceptron with numpy.
+
+**Thoughts**: Better late than never. 
+
+**Link of Work:**
+- [Assignment 01](http://web.stanford.edu/class/cs224n/assignment1/index.html)
+- [Commit Assigment 01 Part II](https://github.com/marbramen/100DaysOfMLCode/tree/master/NLP%20with%20Deep%20Learning)
+- [Commit MLP in numpy](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2063%20-%20Multi%20Layer%20Perceptron.ipynb)
+
