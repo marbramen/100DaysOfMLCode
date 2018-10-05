@@ -423,7 +423,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 # Day 63, October 02, 2018
 
-**Today's Progress**: Assignment 01 - Part II of course cs224-NLP with Deep Learning. Implementing a Multi Layer Perceptron with numpy.
+**Today's Progress**: Assignment01 - Part II of course cs224-NLP with Deep Learning. Implementing a Multi Layer Perceptron with numpy.
 
 **Thoughts**: Better late than never. 
 
@@ -431,4 +431,16 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Assignment 01](http://web.stanford.edu/class/cs224n/assignment1/index.html)
 - [Commit Assigment 01 Part II](https://github.com/marbramen/100DaysOfMLCode/tree/master/NLP%20with%20Deep%20Learning)
 - [Commit MLP in numpy](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2063%20-%20Multi%20Layer%20Perceptron.ipynb)
+
+
+# Day 64,65, Oct 02,03, 2018
+
+**Today's Progress**: Making a basic presentation of Bayesian Network, basic level. Streaming paper review - Reducing the Dimensionality of Data with Neural Networks.
+
+**Thoughts**: The best learning is to teach. 
+
+**Link of Work:**
+- [Commit presentation - Bayes Network - Part I](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%20-%20Bayes%20Network.pdf)
+- [Paper review](https://www.youtube.com/watch?v=eAQsrtPzufM)
+- [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
 
