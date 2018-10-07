@@ -433,7 +433,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit MLP in numpy](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2063%20-%20Multi%20Layer%20Perceptron.ipynb)
 
 
-# Day 64,65, Oct 02,03, 2018
+# Day 64,65, Oct 03,04, 2018
 
 **Today's Progress**: Making a basic presentation of Bayesian Network, basic level. Streaming paper review - Reducing the Dimensionality of Data with Neural Networks.
 
@@ -444,3 +444,10 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Paper review](https://www.youtube.com/watch?v=eAQsrtPzufM)
 - [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
 
+
+# Day 66 Oct 05, 2018
+
+**Today's Progress**: Reading chapter 14 Probabilistic Reasoning - Artificial Intelligence: A Modern Approach by Russel & Norvig
+
+**Link of Work:**
+- [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
