@@ -445,9 +445,18 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
 
 
-# Day 66 Oct 05, 2018
+# Day 66 October 05, 2018
 
 **Today's Progress**: Reading chapter 14 Probabilistic Reasoning - Artificial Intelligence: A Modern Approach by Russel & Norvig
 
 **Link of Work:**
 - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+
+
+# Day 67,68 Oct 06,07 , 2018
+
+**Today's Progress**: Reading all chapter 14 Probabilistic Reasoning - Artificial Intelligence: A Modern Approach by Russel & Norvig. Improving my presentation about Bayesian Network 
+
+**Link of Work:**
+- [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+- - [Commit presentation - Bayes Network - Part II](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%2C68%20-%20Bayes%20Network.pdf)
