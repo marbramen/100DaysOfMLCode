@@ -468,6 +468,6 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Link of Work:**
 - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
-- [Commit presentation - Bayes Network - Version 2.2](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%2C68%20-%20Bayes%20Network.pdf)
+- [Commit presentation - Bayes Network - Version 2.2](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2069%20-%20Bayes%20Network.pdf)
 - [Bayesian exercises I](https://imada.sdu.dk/~marco/DM825/Assignments/sheet12.pdf)
 - [Bayesian exercises II](https://www.mimuw.edu.pl/~noble/BNshortanswers.pdf)
