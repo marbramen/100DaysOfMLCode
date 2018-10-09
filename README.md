@@ -440,7 +440,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Thoughts**: The best learning is to teach. 
 
 **Link of Work:**
-- [Commit presentation - Bayes Network - Part I](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%20-%20Bayes%20Network.pdf)
+- [Commit presentation - Bayes Network - Version 1.0](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%20-%20Bayes%20Network.pdf)
 - [Paper review](https://www.youtube.com/watch?v=eAQsrtPzufM)
 - [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
 
@@ -459,4 +459,15 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Link of Work:**
 - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
-- - [Commit presentation - Bayes Network - Part II](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%2C68%20-%20Bayes%20Network.pdf)
+- [Commit presentation - Bayes Network - Version 2.1](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%2C68%20-%20Bayes%20Network.pdf)
+
+
+# Day 69 Oct 08, 2018
+
+**Today's Progress**: Practicing bayesian network exercises. Finishing my presentation about Bayesian Network.
+
+**Link of Work:**
+- [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+- [Commit presentation - Bayes Network - Version 2.2](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%2C68%20-%20Bayes%20Network.pdf)
+- [Bayesian exercises I](https://imada.sdu.dk/~marco/DM825/Assignments/sheet12.pdf)
+- [Bayesian exercises II](https://www.mimuw.edu.pl/~noble/BNshortanswers.pdf)
