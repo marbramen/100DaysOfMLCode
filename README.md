@@ -462,7 +462,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit presentation - Bayes Network - Version 2.1](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%2C68%20-%20Bayes%20Network.pdf)
 
 
-# Day 69 Oct 08, 2018
+# Day 69 October 08, 2018
 
 **Today's Progress**: Practicing bayesian network exercises. Finishing my presentation about Bayesian Network.
 
@@ -471,3 +471,13 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit presentation - Bayes Network - Version 2.2](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2069%20-%20Bayes%20Network.pdf)
 - [Bayesian exercises I](https://imada.sdu.dk/~marco/DM825/Assignments/sheet12.pdf)
 - [Bayesian exercises II](https://www.mimuw.edu.pl/~noble/BNshortanswers.pdf)
+
+
+# Day 70,71, Oct 09,10, 2018
+
+**Today's Progress**: Attending classes about Hidden Markov Model and Viterbi Algorithm. Completing the first assignment of mlcourse.ai. 
+
+**Thoughts**:  The course is great. HMM isn't so complicated.
+
+**Link of Work:**
+- [Hidden Markov Model- Jenny Copara](https://github.com/jose2008/ucspdatasciencegroup/blob/master/subject/machine%20Learning/Lesson%2003%20-%20HMM.pdf)
