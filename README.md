@@ -481,3 +481,16 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Link of Work:**
 - [Hidden Markov Model- Jenny Copara](https://github.com/jose2008/ucspdatasciencegroup/blob/master/subject/machine%20Learning/Lesson%2003%20-%20HMM.pdf)
+
+
+# Day 72, Oct 11, 2018
+
+** Today's Progress**: Looking AI internship.
+
+**Thoughts**: It's not impossible, get a internship.
+
+**Link of Work:**
+
+- [Siraj Raval - How to get a Intershi](https://www.youtube.com/watch?v=CGTn0ceOaOM)
+- [Commit - List of residency program](https://github.com/marbramen/100DaysOfMLCode/blob/master/List%20of%20AI%20Residencies%20Programs.ipynb)
+
