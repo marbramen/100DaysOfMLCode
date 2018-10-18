@@ -483,7 +483,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Hidden Markov Model- Jenny Copara](https://github.com/jose2008/ucspdatasciencegroup/blob/master/subject/machine%20Learning/Lesson%2003%20-%20HMM.pdf)
 
 
-# Day 72, Oct 11, 2018
+# Day 72, October 11, 2018
 
 ** Today's Progress**: Looking AI internship.
 
@@ -493,4 +493,15 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 - [Siraj Raval - How to get a Intershi](https://www.youtube.com/watch?v=CGTn0ceOaOM)
 - [Commit - List of residency program](https://github.com/marbramen/100DaysOfMLCode/blob/master/List%20of%20AI%20Residencies%20Programs.ipynb)
+
+
+# Day 73,74, Oct 17,18, 2018
+
+** Today's Progres**: Week 2, Part I, Exploration Data Analysis, How to win data science competition? Watching video lectures about K-fold, holdout, leave of one, split time, validation, stratification, etc. Commit the first assignment of mlcourse.ai
+
+- [Week 2-How to win data science competition](https://www.coursera.org/learn/competitive-data-science/home/week/2)
+- [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2071%20-%20mlcourse.ai%20-%20assignment%201%20-%20pandas%20olympic.ipynb)
+
+
+
 
