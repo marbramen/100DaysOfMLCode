@@ -503,5 +503,9 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2071%20-%20mlcourse.ai%20-%20assignment%201%20-%20pandas%20olympic.ipynb)
 
 
+# Day 75, October 19, 2018
 
+** Today's Progress**: Sentiment Analysis in tensorflow. Imdb data set.
+
+- [Commit SA in tensorflow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2075%20-%20Sentiment%20Analysis%20in%20Tensorflow.ipynb)
 
