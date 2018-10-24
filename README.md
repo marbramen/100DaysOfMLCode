@@ -499,6 +499,8 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 ** Today's Progres**: Week 2, Part I, Exploration Data Analysis, How to win data science competition? Watching video lectures about K-fold, holdout, leave of one, split time, validation, stratification, etc. Commit the first assignment of mlcourse.ai
 
+**Link of Work:**
+
 - [Week 2-How to win data science competition](https://www.coursera.org/learn/competitive-data-science/home/week/2)
 - [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2071%20-%20mlcourse.ai%20-%20assignment%201%20-%20pandas%20olympic.ipynb)
 
@@ -506,6 +508,8 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 # Day 75, October 19, 2018
 
 ** Today's Progress**: Sentiment Analysis in tensorflow. Imdb data set.
+
+**Link of Work:**
 
 - [Commit SA in tensorflow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2075%20-%20Sentiment%20Analysis%20in%20Tensorflow.ipynb)
 
