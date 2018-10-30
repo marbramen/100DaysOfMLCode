@@ -505,11 +505,21 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2071%20-%20mlcourse.ai%20-%20assignment%201%20-%20pandas%20olympic.ipynb)
 
 
-# Day 75, October 19, 2018
+# Day 75, October 23, 2018
 
 ** Today's Progress**: Sentiment Analysis in tensorflow. Imdb data set.
 
 **Link of Work:**
 
 - [Commit SA in tensorflow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2075%20-%20Sentiment%20Analysis%20in%20Tensorflow.ipynb)
+
+
+# Day 76,77,78,79, October 25,26,28,29. 2018
+
+** Progress**: Stack LSMT model for Sentiment Analysis in TensorFlow, usigng Imdb data set. Word level language modeling for coco-val-annotations, using TensorFlow.
+
+**Link of Work:**
+
+- [Commit Stack LSTM SA in TensorFlow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2076%20-%20Stack%20LSTM%20-%20%20Sentiment%20Analysis%20in%20Tensorflow.ipynb)
+- [Commit Word Level Language Modeling in TensorFlow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2077%2C78%2C79%20-%20Word%20Level%20Language%20Modeling%20in%20TensorFlow.ipynb)
 
