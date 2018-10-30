@@ -516,7 +516,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 # Day 76,77,78,79, October 25,26,28,29. 2018
 
-** Progress**: Stack LSMT model for Sentiment Analysis in TensorFlow, usigng Imdb data set. Word level language modeling for coco-val-annotations, using TensorFlow.
+** Progress**: Stack LSMT model for Sentiment Analysis in TensorFlow, using IMDB data set. Word level language modeling for coco-val-annotations, using TensorFlow.
 
 **Link of Work:**
 
