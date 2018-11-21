@@ -523,3 +523,12 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit Stack LSTM SA in TensorFlow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2076%20-%20Stack%20LSTM%20-%20%20Sentiment%20Analysis%20in%20Tensorflow.ipynb)
 - [Commit Word Level Language Modeling in TensorFlow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2077%2C78%2C79%20-%20Word%20Level%20Language%20Modeling%20in%20TensorFlow.ipynb)
 
+
+# Day 76,77,78,79, November 20. 2018
+
+** Progress**: Code of Decision Tree & Random Forest with Scikit Learn. Making a presentation about Decision Tree & Random Forest. 
+
+**Link of Work:**
+
+- [Commit Decision Tree & Random Forest](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2080%20-%20Decision%20Tree%20%26%20Random%20Forest.ipynb)
+- [Presenatation Decision Tree & Random Forest](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2080%2C81%20-%20Decision%20Tree%20Presentation.pdf)
