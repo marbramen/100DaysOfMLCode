@@ -524,11 +524,21 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit Word Level Language Modeling in TensorFlow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2077%2C78%2C79%20-%20Word%20Level%20Language%20Modeling%20in%20TensorFlow.ipynb)
 
 
-# Day 76,77,78,79, November 20. 2018
+# Day 80,81, November 20,21. 2018
 
 ** Progress**: Code of Decision Tree & Random Forest with Scikit Learn. Making a presentation about Decision Tree & Random Forest. 
 
 **Link of Work:**
 
 - [Commit Decision Tree & Random Forest](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2080%20-%20Decision%20Tree%20%26%20Random%20Forest.ipynb)
-- [Presenatation Decision Tree & Random Forest](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2080%2C81%20-%20Decision%20Tree%20Presentation.pdf)
+- [Presentation Decision Tree & Random Forest](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2080%2C81%20-%20Decision%20Tree%20Presentation.pdf)
+
+
+# Day 82,83, November 23,24. 2018
+
+** Progress**: Reading Chapter 10 - Part I of Deep Learning Book. Making a presentation of Chapter 10 - Part I of Deep Learning Book.
+
+**Link of Work:**
+
+- [Chapter 10 DLB](https://www.deeplearningbook.org/contents/rnn.html)
+- [Presentation Chapter 10](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2082%20-%20Chapter%2010%20Part%20I%20-%20DLB.dpf)
