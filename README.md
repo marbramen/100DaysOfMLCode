@@ -277,7 +277,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:** [Commit - Data Processing, CNN+BiGRU+word embeddiins pretrained. for text classification](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2041%2C42%20-%20Data%20Processing%2C%20CNN%2BBiGRU%2Bword%20embeddiins%20pretrained.%20for%20text%20classification.ipynb)
 
 
-# Day 43: September 12, 2018
+## Day 43: September 12, 2018
 
 **Today's Progress**: Solving covariance and correlation math exercises. Coding a correlation program. Understanding Neural Machine Translation toolkit.
 
@@ -286,26 +286,26 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)
 
 
-# Day 44: September 13, 2018
+## Day 44: September 13, 2018
 
 **Today's Progress**: Reading about Kaggle's data science competitions.
 
 **Link of Work:** [Kaggle](https://www.kaggle.com/)
 
 
-# Day 45,46: Sep 14, Sep 15, 2018
+## Day 45,46: Sep 14, Sep 15, 2018
 
 **Today's Progress**: Chapter 5 - Machine Learning Basics - Deep Learning Book
 
 **Link of Work:** [Chapter 5 DLB](https://www.deeplearningbook.org/contents/ml.html)
 
 
-# Day 47,48: Sep 16, Sep 17, 2018
+## Day 47,48: Sep 16, Sep 17, 2018
 
 **Today's Progress**: Reading about index of machine learning, artificial intelligence, data science books, and reading the syllabus of MOOCS about machine learning or deep learning. For making my own ML syllabus
 
 
-# Day 49: September 18, 2018
+## Day 49: September 18, 2018
 
 **Today's Progress**: Coding visualizations with D3. 
 
@@ -316,7 +316,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit - D3 - drag](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2049%20-%20D3%20Code03%20-%20drag.html)
 - [Commit - D3 - drag and general zoom](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2049%20-%20D3%20Code04%20-%20drag%20and%20general%20zoom.html)
 
-# Day 50: September 19, 2018
+## Day 50: September 19, 2018
 
 **Today's Progress**: Reading and coding about Naive Bayes, part I.
 
@@ -324,7 +324,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 [Commit Naive Baye](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2050%20-%20Naive%20Bayes.ipynb)
 
 
-# Day 51: September 20, 2018
+## Day 51: September 20, 2018
 
 **Today's Progress**: Reading and coding about Naive Bayes with Gaussian Densidity Function.
 
@@ -332,7 +332,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 [Commit Naive Baye with Gaussian Probability](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
 
 
-# Day 52: September 21, 2018
+## Day 52: September 21, 2018
 
 **Today's Progress**: Reading about CS229 Lectures Notes - Generative Learning Algorithms. Watch Naive Bayes' video lectures by Andrew Ng.
 
@@ -342,14 +342,14 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Andrew Ng Naive Bayes Text Clasification](https://www.youtube.com/watch?v=NFd0ZQk5bR4)
 
 
-# Day 53: September 22, 2018
+## Day 53: September 22, 2018
 
 **Today's Progress**: Chapter 6 - Deep Feedforward Networks - Deep Learning Book.
 
 **Link of Work:** [Chapter 6 Deep Feedforward Networks](https://www.deeplearningbook.org/contents/mlp.html)
 
 
-# Day 54: September 23, 2018
+## Day 54: September 23, 2018
 
 **Today's Progress**: Streaming tutorial of temporal series. Learning about lag function, Simple Moving Average(SMA), Weighted Moving Average (WMA), White Noise, transformations of temporal series.
 
@@ -358,7 +358,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:** [Tutorial: Time Series Analysis](https://www.youtube.com/watch?v=DbW3VvCtOhY)
 
 
-# Day 55: September 24, 2018
+## Day 55: September 24, 2018
 
 **Today's Progress**: Making a presentation about Naive Bayes & Bayes Classifier
 
@@ -367,7 +367,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:** [Commit Naive Bayes& Bayes Classifier Presentation](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2055%20Lesson%2002%20-%20Bayes%20%26%20Naive%20Bayes.pdf)
 
 
-# Day 56: September 25, 2018
+## Day 56: September 25, 2018
 
 **Today's Progress**: Improvements to my presentation about Naive Bayes & Bayes Classifier. Coding Naive Bayes with Scikit Learn. Refactor my scratch Gaussian Naive Bayes.
 
@@ -379,7 +379,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit Gaussian Naive Baye ](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2051%20-%20Naive%20Bayes%20with%20Gaussian%20Density%20Function.ipynb)
 
 
-# Day 57: September 26, 2018
+## Day 57: September 26, 2018
 
 **Today's Progress**: Assignment 01 - Part I of course cs224-NLP with Deep Learning.
 
@@ -389,7 +389,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Assignment 01](http://web.stanford.edu/class/cs224n/assignment1/index.html)
 
 
-# Day 58,59: Sep 27,28, 2018 
+## Day 58,59: Sep 27,28, 2018 
 
 **Today's Progress**: Reading paper "Online and Linear-Time Attention by Enforcing Monotonic Alignments" by Colin Raffel. Reading about Bayes Network, I played with WEKA. 
 
@@ -400,7 +400,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [A Tutorial on Bayesian cla/ssifier A Tutorial on Bayesian classifier with WEKA](http://web.ydu.edu.tw/~alan9956/docu/refer/BayesWEKA.pdf)
 
 
-# Day 60: September 29, 2018
+## Day 60: September 29, 2018
 
 **Today's Progress**: Meetup Chapter 7 Deep Learning Book. 
 
@@ -410,7 +410,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Meetp up - Chapter 7 Deep Learning Book - Part II](https://www.youtube.com/watch?v=YzDBpYUL-uQ)
 
 
-# Day 61,62: Sep 30, Oct 01, 2018
+## Day 61,62: Sep 30, Oct 01, 2018
 
 **Today's Progress**: Reading kernel notebook of data competition in Kaggle. Solving the first assignment of mlcourse.ai. 
 
@@ -421,7 +421,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [First Assignment mlcourse.ai](https://github.com/Yorko/mlcourse.ai/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb)
 
 
-# Day 63, October 02, 2018
+## Day 63, October 02, 2018
 
 **Today's Progress**: Assignment01 - Part II of course cs224-NLP with Deep Learning. Implementing a Multi Layer Perceptron with numpy.
 
@@ -433,7 +433,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit MLP in numpy](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2063%20-%20Multi%20Layer%20Perceptron.ipynb)
 
 
-# Day 64,65, Oct 03,04, 2018
+## Day 64,65, Oct 03,04, 2018
 
 **Today's Progress**: Making a basic presentation of Bayesian Network, basic level. Streaming paper review - Reducing the Dimensionality of Data with Neural Networks.
 
@@ -445,7 +445,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
 
 
-# Day 66 October 05, 2018
+## Day 66 October 05, 2018
 
 **Today's Progress**: Reading chapter 14 Probabilistic Reasoning - Artificial Intelligence: A Modern Approach by Russel & Norvig
 
@@ -453,7 +453,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 
 
-# Day 67,68 Oct 06,07 , 2018
+## Day 67,68 Oct 06,07 , 2018
 
 **Today's Progress**: Reading all chapter 14 Probabilistic Reasoning - Artificial Intelligence: A Modern Approach by Russel & Norvig. Improving my presentation about Bayesian Network 
 
@@ -462,7 +462,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit presentation - Bayes Network - Version 2.1](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2064%2C68%20-%20Bayes%20Network.pdf)
 
 
-# Day 69 October 08, 2018
+## Day 69 October 08, 2018
 
 **Today's Progress**: Practicing bayesian network exercises. Finishing my presentation about Bayesian Network.
 
@@ -473,7 +473,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Bayesian exercises II](https://www.mimuw.edu.pl/~noble/BNshortanswers.pdf)
 
 
-# Day 70,71, Oct 09,10, 2018
+## Day 70,71, Oct 09,10, 2018
 
 **Today's Progress**: Attending classes about Hidden Markov Model and Viterbi Algorithm. Completing the first assignment of mlcourse.ai. 
 
@@ -483,7 +483,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Hidden Markov Model- Jenny Copara](https://github.com/jose2008/ucspdatasciencegroup/blob/master/subject/machine%20Learning/Lesson%2003%20-%20HMM.pdf)
 
 
-# Day 72, October 11, 2018
+## Day 72, October 11, 2018
 
 ** Today's Progress**: Looking AI internship.
 
@@ -495,7 +495,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit - List of residency program](https://github.com/marbramen/100DaysOfMLCode/blob/master/List%20of%20AI%20Residencies%20Programs.ipynb)
 
 
-# Day 73,74, Oct 17,18, 2018
+## Day 73,74, Oct 17,18, 2018
 
 ** Today's Progres**: Week 2, Part I, Exploration Data Analysis, How to win data science competition? Watching video lectures about K-fold, holdout, leave of one, split time, validation, stratification, etc. Commit the first assignment of mlcourse.ai
 
@@ -505,7 +505,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2071%20-%20mlcourse.ai%20-%20assignment%201%20-%20pandas%20olympic.ipynb)
 
 
-# Day 75, October 23, 2018
+## Day 75, October 23, 2018
 
 ** Today's Progress**: Sentiment Analysis in tensorflow. Imdb data set.
 
@@ -514,7 +514,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit SA in tensorflow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2075%20-%20Sentiment%20Analysis%20in%20Tensorflow.ipynb)
 
 
-# Day 76,77,78,79, October 25,26,28,29. 2018
+## Day 76,77,78,79, October 25,26,28,29. 2018
 
 ** Progress**: Stack LSMT model for Sentiment Analysis in TensorFlow, using IMDB data set. Word level language modeling for coco-val-annotations, using TensorFlow.
 
@@ -524,7 +524,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Commit Word Level Language Modeling in TensorFlow](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2077%2C78%2C79%20-%20Word%20Level%20Language%20Modeling%20in%20TensorFlow.ipynb)
 
 
-# Day 80,81, November 20,21. 2018
+## Day 80,81, November 20,21. 2018
 
 ** Progress**: Code of Decision Tree & Random Forest with Scikit Learn. Making a presentation about Decision Tree & Random Forest. 
 
@@ -534,7 +534,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Presentation Decision Tree & Random Forest](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2080%2C81%20-%20Decision%20Tree%20Presentation.pdf)
 
 
-# Day 82,83, November 23,24. 2018
+## Day 82,83, November 23,24. 2018
 
 ** Progress**: Reading Chapter 10 - Part I of Deep Learning Book. Making a presentation of Chapter 10 - Part I of Deep Learning Book.
 
