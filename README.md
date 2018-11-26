@@ -541,4 +541,4 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:**
 
 - [Chapter 10 DLB](https://www.deeplearningbook.org/contents/rnn.html)
-- [Presentation Chapter 10](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2082%20-%20Chapter%2010%20Part%20I%20-%20DLB.dpf)
+- [Presentation Chapter 10](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2082%20-%20Chapter%2010%20Part%20I%20-%20DLB.pdf)
