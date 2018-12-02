@@ -257,7 +257,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Today's Progress**: Attended meetup Deep Learning Book Chapter 5 Part I. Solving integral math exercises. Coding a GRU, LSTM, BiLSTM, BiGRU for IMDB. 
 
-**Link of Work:**
+**Link of Work:** 
 - [Meetup: Deep Learning Book Chapter 5 Part I](https://www.youtube.com/watch?v=PZUnobWpK8M)
 - [Calculus Made Easy by Silvanus P. Thompson](https://archive.org/details/ost-math-33283-pdf)
 - [Commit](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2038%20-%20Comparasion%20between%20LSTM%2C%20GRU%2C%20BiLSTM%20in%20Keras.ipynb)
@@ -541,4 +541,32 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:**
 
 - [Chapter 10 DLB](https://www.deeplearningbook.org/contents/rnn.html)
-- [Presentation Chapter 10](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2082%20-%20Chapter%2010%20Part%20I%20-%20DLB.pdf)
+- [Commit - Presentation Chapter 10 Part I](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2082%20-%20Chapter%2010%20Part%20I%20-%20DLB.pdf)
+
+
+## Day 84, November 28, 2018
+
+** Progress**: Video lectures week 3 (Metrics Optimizatiom), of course How to Win a Data Science Competition: Learn from Top Kagglers. 
+
+**Link of Work:** 
+
+- [How to Win a Data Science Competition - Week3](https://www.coursera.org/learn/competitive-data-science/home/week/3)
+
+
+## Day 85,86, November 29,30, 2018
+
+** Progress**: Reading Chapter 10 - Part II of Deep Learning Book. Making a presentation of Chapter 10 - Part I of Deep Learning Book.
+
+**Link of Work:**
+
+- [Chapter 10 DLB](https://www.deeplearningbook.org/contents/rnn.html)
+- [Commit - Presentation Chapter 10 Part II](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2085%2C86%20-%20Chapter%2010%20Part%20II%20-%20DLB.pdf)
+
+
+## Day 87, December 1, 2018
+
+** Progress**: Meetup about Support Vector Machine(SVM), linearly separable, almost linearly separable, not linearly separable, kernels.
+
+**Link of Work:**
+
+- Onsite meetup.
