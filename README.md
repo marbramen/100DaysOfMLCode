@@ -570,3 +570,23 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 **Link of Work:**
 
 - Onsite meetup.
+
+
+## Day 88, December 8, 2018
+
+** Progress**: Meetup about Chapter 11 of Deep Learning Book - Practical Methodology.
+
+**Link of Work:**
+
+- [Online meetup](https://www.youtube.com/watch?v=nzLqmSu6fJU)
+- [Chapter 11 DLB](https://www.deeplearningbook.org/contents/guidelines.html)
+
+
+## Day 89, December 15, 2018
+
+** Progress**: Meetup about Chapter 12 of Deep Learning Book - Applications.
+
+**Link of Work:**
+
+- Onsite meetup
+- [Chapter 12 DLB](https://www.deeplearningbook.org/contents/applications.html)
