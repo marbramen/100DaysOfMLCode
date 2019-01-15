@@ -592,9 +592,9 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 - [Chapter 12 DLB](https://www.deeplearningbook.org/contents/applications.html)
 
 
-## Day 90, December
+## Day 90,91,92,93,94,95,96,97, January 01-10, 2019
 
-** Progress**: Making a presentation: "Tutorial Deep Learning for Natural Language Processing" for First Peruvian Symposium of Deep Learning. Organizer full time for First Peruvian Symposium of Deep Learning, Arequipa, Peru, 2019. In this tutorial, we will learn some concepts of deep learning for natural language processing. We will approach the most important concepts such as word embedding and recurrent neural networks. Some of the topics are: Natural Language Processing, Word Embedding, Recurrent Neural Network, Long Short Term Memory, Gated Recurrent Unit, Bi-RNN, Recursive Neural Networks, Stack RNN, Language Modeling, Sentiment Analysis, Name Entity Recognition(NER), Opinion Mining, Attention/self-Attention, Machine Translation, Question Answering, Visual Question Answering, Transfer Learning in NLP.
+** Progress**: Making a presentation: "Tutorial Deep Learning for Natural Language Processing" for First Peruvian Symposium of Deep Learning. Organizer full time for First Peruvian Symposium of Deep Learning, Arequipa, Peru, 2019. In this tutorial, we will learn some concepts of deep learning for natural language processing. We will approach the most important concepts such as word embedding and recurrent neural networks. Some of the topics are: Natural Language Processing, Word Embedding, Recurrent Neural Network, Long Short Term Memory, Gated Recurrent Unit, Bi-RNN, Recursive Neural Networks, Stack RNN, Language Modeling, Sentiment Analysis, Named Entity Recognition(NER), Opinion Mining, Attention/self-Attention, Machine Translation, Question Answering, Visual Question Answering, Transfer Learning in NLP.
 
 **Thoughts**:  The best learning is to teach.
 
