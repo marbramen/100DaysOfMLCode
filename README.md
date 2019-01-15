@@ -590,3 +590,30 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 - Onsite meetup
 - [Chapter 12 DLB](https://www.deeplearningbook.org/contents/applications.html)
+
+
+## Day 90, December
+
+** Progress**: Making a presentation: "Tutorial Deep Learning for Natural Language Processing" for First Peruvian Symposium of Deep Learning. Organizer full time for First Peruvian Symposium of Deep Learning, Arequipa, Peru, 2019. In this tutorial, we will learn some concepts of deep learning for natural language processing. We will approach the most important concepts such as word embedding and recurrent neural networks. Some of the topics are: Natural Language Processing, Word Embedding, Recurrent Neural Network, Long Short Term Memory, Gated Recurrent Unit, Bi-RNN, Recursive Neural Networks, Stack RNN, Language Modeling, Sentiment Analysis, Name Entity Recognition(NER), Opinion Mining, Attention/self-Attention, Machine Translation, Question Answering, Visual Question Answering, Transfer Learning in NLP.
+
+**Thoughts**:  The best learning is to teach.
+
+** Link of Work: 
+
+- [I Peruvian Symposium of Deep Learning](https://sites.google.com/view/spdl-2019/)
+- [Tutorial Deep Learning for Natural Language Processing](https://github.com/marbramen/100DaysOfMLCode/blob/master/Day%2091%2C92%2C93%2C94%2C95%2C96%2C97%20Tutorial%20Deep%20Learning%20for%20Natural%20Language%20Processing.pdf)
+
+
+## Day 98,99,100, Janaury 10,11,12, 2019
+
+** Progress**: Attendance, speaker and organizer in the I Peruvian Symposium of Deep Learning, Arequipa, Peru
+
+**Thoughts**:  The best learning is to teach.
+
+**Link of Work:
+
+- [I Peruvian Symposium of Deep Learning](https://sites.google.com/view/spdl-2019/)
+- [Lectures-expositions](https://sites.google.com/view/spdl-2019/diapositivas)
+- [facebook event](https://www.facebook.com/events/2003452196408936/)
+
+
