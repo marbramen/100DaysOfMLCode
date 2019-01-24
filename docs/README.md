@@ -8,7 +8,7 @@ My progress in the "100 days of Machine Learning code challenge". That means cod
 
 **Thoughts** : Hope this will be exiciting ,will help me in learning Machine Learning in a more effective way .
 
-**Link of Work:** [Commit](https://marbramen.github.io/100DaysOfMLCode/Day-1-PandasBasics.html)
+**Link of Work:** [Commit](https://marbramen.github.io/100DaysOfMLCode/Day-01-PandasBasics.html)
 
 ## Day 02 : August 02 , 2018
 
